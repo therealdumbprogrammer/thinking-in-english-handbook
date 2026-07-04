@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "thinking-in-english-handbook-site"
+version = "0.1.0"
+description = "MkDocs automation for the Thinking in English handbook website."
+requires-python = ">=3.9"
+
+[project.entry-points."mkdocs.plugins"]
+thinking-handbook = "scripts.mkdocs_automation:ThinkingHandbookPlugin"
+
+[tool.setuptools]
+packages = ["scripts"]
+

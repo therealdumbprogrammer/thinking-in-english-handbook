@@ -1,0 +1,2 @@
+"""Local MkDocs automation package."""
+
