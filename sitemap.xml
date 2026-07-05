@@ -2,134 +2,454 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/001-basic-greetings/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/002-asking-how-someone-is/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/003-responding-to-greetings/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/004-expressing-thanks/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/005-responding-to-thanks/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/006-meeting-after-a-long-time/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/007-what-brings-you-here/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/008-where-have-you-been/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/009-nice-to-meet-you/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/010-staying-in-touch/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/011-starting-a-conversation-naturally/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/012-asking-about-someones-availability/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/013-excusing-yourself-before-speaking/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/014-getting-someones-attention/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/015-checking-if-someone-can-hear-you/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/016-ending-a-conversation-politely/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/017-asking-someone-to-wait/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/018-interrupting-politely/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/019-resuming-a-conversation/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/020-confirming-you-understand/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/021-asking-someone-to-repeat/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/022-checking-you-heard-correctly/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/023-asking-someone-to-speak-more-slowly/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/024-asking-someone-to-speak-louder/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/025-confirming-the-conversation-is-clear/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/026-asking-for-a-moment/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/027-checking-if-someone-is-still-there/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/028-asking-for-a-quick-favor/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/029-checking-if-someone-is-following/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/030-asking-to-continue/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/031-responding-before-thinking/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/032-showing-interest/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/033-showing-surprise/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/034-agreeing-casually/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/035-showing-you-are-listening/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/036-politely-disagreeing/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/037-asking-for-opinions/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/038-buying-time/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/039-changing-the-topic/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/040-wrapping-up-the-conversation/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/041-asking-for-clarification/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/042-confirming-plans/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/043-apologizing-for-the-delay/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/044-checking-readiness/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/045-responding-to-good-news/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/046-responding-to-bad-news/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/047-asking-if-everything-is-okay/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/048-excusing-yourself-briefly/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/049-welcoming-someone/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/050-checking-before-leaving/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/051-checking-if-someone-needs-help/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/052-accepting-help/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/053-declining-help-politely/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/054-apologizing-for-interrupting/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/055-checking-if-someone-is-available-later/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/056-checking-if-someone-is-ready-to-start/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/057-asking-for-a-quick-update/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/058-letting-someone-finish/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/059-checking-if-someone-has-time/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/060-ending-on-a-positive-note/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/061-asking-if-someone-is-available-now/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/062-asking-someone-to-hold/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/063-rejoining-after-a-pause/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/064-checking-if-the-conversation-is-over/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/065-friendly-farewell/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/066-checking-if-someone-is-busy/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/067-asking-to-call-back/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/068-responding-to-a-callback-request/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/069-starting-a-phone-call/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/070-ending-a-phone-call/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/071-answering-a-phone-call/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/072-asking-who-is-calling/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/073-bad-connection/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/074-asking-to-switch-medium/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/075-confirming-you-will-follow-up/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/076-asking-someone-to-wait-on-a-call/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/077-returning-to-a-call/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/078-checking-if-someone-is-on-mute/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/079-asking-to-reconnect/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/080-closing-a-conversation-warmly/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/081-checking-if-someone-can-see-your-screen/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/082-asking-for-a-moment-to-set-up/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/083-checking-if-everyone-is-ready/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/084-welcoming-someone-back/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/085-closing-with-best-wishes/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/086-asking-to-join-the-conversation/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/087-acknowledging-someones-arrival/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/088-checking-if-anyone-has-questions/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/089-final-goodbye/</loc>
+         <lastmod>2026-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-01-greetings/090-everyday-conversation-wrap-up/</loc>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-02-introductions/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-03-daily-life/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-04-family/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-05-office/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-06-shopping/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-07-travel/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-08-food-health/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-09-phone-chat/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-10-asking-questions/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-11-requests/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-12-suggestions/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-13-opinions/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-14-emotions/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-15-agreement/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-16-time/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-17-conditions/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-18-decisions/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-19-problems/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-20-conversation-fillers/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-21-difficult-hindi/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
     <url>
          <loc>https://therealdumbprogrammer.github.io/thinking-in-english-handbook/chapter-22-idioms/</loc>
-         <lastmod>2026-07-04</lastmod>
+         <lastmod>2026-07-05</lastmod>
     </url>
 </urlset>
