@@ -19,14 +19,26 @@ class ThinkingHandbookPlugin(BasePlugin):
         docs_dir.mkdir(parents=True, exist_ok=True)
 
         chapters = _discover_chapters(docs_dir)
-        _write_homepage(docs_dir / "index.md", chapters)
+
+        index_path = docs_dir / "index.md"
+        if not index_path.exists() or index_path.read_text(encoding="utf-8").startswith(GENERATED_MARKER):
+            _write_homepage(index_path, chapters)
 
         nav = [{"Home": "index.md"}]
+        chapter_entries = []
         for chapter in chapters:
             _write_chapter_index(chapter)
             entries = [str(chapter.index_path.relative_to(docs_dir))]
             entries.extend(str(page.path.relative_to(docs_dir)) for page in chapter.pages)
-            nav.append({chapter.title: entries})
+            chapter_entries.append({chapter.title: entries})
+        nav.append({"Chapters": chapter_entries})
+
+        existing_nav = config.get("nav") or []
+        for item in existing_nav:
+            if isinstance(item, dict):
+                key = list(item.keys())[0]
+                if key not in ("Home", "Chapters"):
+                    nav.append(item)
 
         config["nav"] = nav
         return config

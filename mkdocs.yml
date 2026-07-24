@@ -1,7 +1,6 @@
 site_name: Thinking in English Handbook
-site_description: A Hindi to Natural Spoken English handbook.
-site_url: https://therealdumbprogrammer.github.io/thinking-in-english-handbook/
-repo_url: https://github.com/therealdumbprogrammer/thinking-in-english-handbook
+site_description: A practical Hindi to Natural Spoken English handbook — learn how native speakers actually talk.
+site_url: https://thinking-in-english-handbook.pages.dev/
 docs_dir: docs
 site_dir: site
 use_directory_urls: true
@@ -10,12 +9,15 @@ strict: true
 theme:
   name: material
   language: en
+  favicon: assets/favicon.png
+  icon:
+    logo: material/book-open-page-variant
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.indexes
     - navigation.top
     - navigation.footer
+    - navigation.sections
     - toc.follow
     - content.code.copy
     - search.highlight
@@ -23,17 +25,20 @@ theme:
     - search.suggest
   palette:
     - scheme: default
-      primary: indigo
-      accent: teal
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: teal
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+  font:
+    text: Inter
+    code: Fira Code
 
 plugins:
   - search
@@ -48,5 +53,23 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/therealdumbprogrammer
+      name: GitHub
+
+copyright: "&copy; 2024–2026 ThinkEnglish by Vivek. All rights reserved."
+
+extra_css:
+  - assets/extra.css
+
+nav:
+  - Home: index.md
+  - Contact: contact.md
