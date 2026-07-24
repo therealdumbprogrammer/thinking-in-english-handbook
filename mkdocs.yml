@@ -60,6 +60,9 @@ markdown_extensions:
       permalink: true
 
 extra:
+  analytics:
+    provider: google
+    property: G-VVSVT5ZME7
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/therealdumbprogrammer
