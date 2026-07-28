@@ -38,10 +38,4 @@ mkdocs build --strict
 
 The generated static site is written to `site/`.
 
-## GitHub Pages
-
-```bash
-mkdocs gh-deploy --strict
-```
-
 The MkDocs plugin scans `docs/chapter-*` on every serve/build, generates chapter indexes, and builds navigation automatically. Add new handbook Markdown files to the correct chapter directory; no manual navigation edits are required.

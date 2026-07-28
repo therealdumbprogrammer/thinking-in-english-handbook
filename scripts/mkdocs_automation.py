@@ -53,9 +53,10 @@ class Chapter:
 
 
 class PageInfo:
-    def __init__(self, path: Path, title: str) -> None:
+    def __init__(self, path: Path, title: str, is_supplementary: bool) -> None:
         self.path = path
         self.title = title
+        self.is_supplementary = is_supplementary
 
 
 def _discover_chapters(docs_dir: Path) -> list[Chapter]:
@@ -65,7 +66,11 @@ def _discover_chapters(docs_dir: Path) -> list[Chapter]:
             continue
 
         pages = [
-            PageInfo(path=page, title=_extract_title(page))
+            PageInfo(
+                path=page,
+                title=_extract_title(page),
+                is_supplementary=_is_supplementary(page),
+            )
             for page in sorted(chapter_dir.glob("*.md"))
             if page.name != "index.md"
         ]
@@ -117,6 +122,11 @@ def _extract_title(path: Path) -> str:
             return line[2:].strip()
 
     return _title_from_slug(path.stem)
+
+
+def _is_supplementary(path: Path) -> bool:
+    """Identify quick-reference pages intended for supplementary reading."""
+    return "  - high-frequency" in path.read_text(encoding="utf-8")
 
 
 def _extract_front_matter(path: Path) -> dict[str, str]:
@@ -180,12 +190,21 @@ def _write_chapter_index(chapter: Chapter) -> None:
         "",
     ]
 
-    if chapter.pages:
-        for number, page in enumerate(chapter.pages, start=1):
+    pattern_pages = [page for page in chapter.pages if not page.is_supplementary]
+    supplementary_pages = [page for page in chapter.pages if page.is_supplementary]
+
+    if pattern_pages:
+        for number, page in enumerate(pattern_pages, start=1):
             lines.append(f"{number}. [{page.title}]({page.path.name})")
             lines.append("")
     else:
         lines.append("No pattern families have been added yet.")
+        lines.append("")
+
+    if supplementary_pages:
+        lines.extend(["## Supplementary Reading", ""])
+        for page in supplementary_pages:
+            lines.append(f"- [{page.title}]({page.path.name})")
         lines.append("")
 
     chapter.index_path.write_text("\n".join(lines), encoding="utf-8")
