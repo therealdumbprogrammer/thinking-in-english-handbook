@@ -14,7 +14,7 @@ Stop translating in your head. Start thinking in English.<br>
 A practical handbook for Hindi speakers who want to sound natural.
 </p>
 
-[Start Reading](chapter-01-greetings/){ .md-button .md-button--primary }
+[Start Reading](chapter-01-greetings/index.md){ .md-button .md-button--primary }
 [Browse Chapters](#chapters){ .md-button .md-button--secondary }
 
 </section>
@@ -56,28 +56,28 @@ A practical handbook for Hindi speakers who want to sound natural.
 
 ## Chapters
 
-1. [Greetings & Everyday Conversation](chapter-01-greetings/)
-2. [Introductions](chapter-02-introductions/)
-3. [Daily Life](chapter-03-daily-life/)
-4. [Family](chapter-04-family/)
-5. [Office](chapter-05-office/)
-6. [Shopping](chapter-06-shopping/)
-7. [Travel](chapter-07-travel/)
-8. [Food & Health](chapter-08-food-health/)
-9. [Phone & Chat](chapter-09-phone-chat/)
-10. [Asking Questions](chapter-10-asking-questions/)
-11. [Requests](chapter-11-requests/)
-12. [Suggestions](chapter-12-suggestions/)
-13. [Opinions](chapter-13-opinions/)
-14. [Emotions](chapter-14-emotions/)
-15. [Agreement](chapter-15-agreement/)
-16. [Time](chapter-16-time/)
-17. [Conditions](chapter-17-conditions/)
-18. [Decisions](chapter-18-decisions/)
-19. [Problems](chapter-19-problems/)
-20. [Conversation Fillers](chapter-20-conversation-fillers/)
-21. [Difficult Hindi Phrases](chapter-21-difficult-hindi/)
-22. [Idioms](chapter-22-idioms/)
+1. [Greetings & Everyday Conversation](chapter-01-greetings/index.md)
+2. [Introductions](chapter-02-introductions/index.md)
+3. [Daily Life](chapter-03-daily-life/index.md)
+4. [Family](chapter-04-family/index.md)
+5. [Office](chapter-05-office/index.md)
+6. [Shopping](chapter-06-shopping/index.md)
+7. [Travel](chapter-07-travel/index.md)
+8. [Food & Health](chapter-08-food-health/index.md)
+9. [Phone & Chat](chapter-09-phone-chat/index.md)
+10. [Asking Questions](chapter-10-asking-questions/index.md)
+11. [Requests](chapter-11-requests/index.md)
+12. [Suggestions](chapter-12-suggestions/index.md)
+13. [Opinions](chapter-13-opinions/index.md)
+14. [Emotions](chapter-14-emotions/index.md)
+15. [Agreement](chapter-15-agreement/index.md)
+16. [Time](chapter-16-time/index.md)
+17. [Conditions](chapter-17-conditions/index.md)
+18. [Decisions](chapter-18-decisions/index.md)
+19. [Problems](chapter-19-problems/index.md)
+20. [Conversation Fillers](chapter-20-conversation-fillers/index.md)
+21. [Difficult Hindi Phrases](chapter-21-difficult-hindi/index.md)
+22. [Idioms](chapter-22-idioms/index.md)
 
 </section>
 
